@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Customer/CustomerView/bin
+/Customer/CustomerView/Properties
